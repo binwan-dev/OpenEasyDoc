@@ -1,4 +1,4 @@
-# OpenEasyExcel
+# OpenEasyDoc
 OpenXml Wrapper  for excel word ...
 
 ## Install  
