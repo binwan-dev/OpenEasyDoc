@@ -2,7 +2,7 @@
 OpenXml Wrapper  for excel word ...
 
 ## Install  
-`dotnet add pacakge OpenEasyDoc`  
+`dotnet add package OpenEasyDoc`  
   
 ## Usage  
 ### Excel  
